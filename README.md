@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=garireo2549
